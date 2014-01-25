@@ -1,0 +1,3 @@
+function macan(){
+  console.log();
+}
