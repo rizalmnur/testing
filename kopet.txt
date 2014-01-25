@@ -4,6 +4,7 @@ testing 123
  */
 navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
 navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
+getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
 
 
 function guid() {
