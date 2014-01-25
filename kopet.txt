@@ -16,3 +16,5 @@ function rand(){
 	return Math.ceil(Math.random()*1000000);
 }
 function
+function and(){
+}
