@@ -6,7 +6,8 @@ navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
 navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
 getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
 
-
+function guid1(){
+}
 function guid() {
 	function s4() {
 		return Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);
