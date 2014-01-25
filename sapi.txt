@@ -2,3 +2,4 @@ function sapimakan(){
   console.log('asd')
   kuda()
 }
+function makan(){}
