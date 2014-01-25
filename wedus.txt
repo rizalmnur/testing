@@ -1,2 +1,4 @@
+function wedhus lagi (){
+}
 asd
 asd
