@@ -19,4 +19,5 @@ function rand(){
 }
 
 function sapi(){
+	console.log()
 }
