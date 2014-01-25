@@ -17,3 +17,7 @@ function guid() {
 function rand(){
 	return Math.ceil(Math.random()*1000000);
 }
+
+function sapi(){
+	console.log()
+}
