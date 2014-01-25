@@ -3,6 +3,7 @@ testing 123
  * Web API 
  */
 navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
+navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
 
 
 function guid() {
