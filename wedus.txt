@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 asd
 
 sapi makan
+=======
+function wedhus lagi (){
+}
+asdg wejhaef awe aerwawert
+awe fawefawe awergawre
+tgawegf
+asdasdasd
+>>>>>>> cabang4
