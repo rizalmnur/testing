@@ -1,0 +1,17 @@
+testing 123
+/**
+ * Web API 
+ */
+navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
+
+
+function guid() {
+	function s4() {
+		return Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);
+	};
+	return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+}
+
+function rand(){
+	return Math.ceil(Math.random()*1000000);
+}
